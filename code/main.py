@@ -5,6 +5,25 @@ import pygame
 from level import Level
 from settings import *
 
+'''
+This code has been initially made by "Clear Code" https://github.com/clear-code-projects/Zelda
+And has been modified by Uboatwaffe (https://github.com/Uboatwaffe) belonging to 3e group for commercial use
+The work has started in 18.10.2024 at 20:10 and finished in DD.MM.YYYY
+
+Project Manager: Bartłomiej K.
+Supervisors: Maciej P. and Julia N.
+
+Programmers: Maciej P.
+Graphic Designers: 
+Sound Engineer: 
+Testers: 
+Advertisement: 
+Plot Of The Game:
+'''
+
+
+# TODO: fill credits out
+
 
 class Game:
     def __init__(self):
