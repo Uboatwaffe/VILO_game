@@ -1,6 +1,7 @@
-import pygame 
-from settings import *
+import pygame
+
 from support import import_folder
+
 
 class Player(pygame.sprite.Sprite):
 	def __init__(self,pos,groups,obstacle_sprites):

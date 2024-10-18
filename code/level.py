@@ -1,10 +1,11 @@
-import pygame 
-from settings import *
-from tile import Tile
-from player import Player
-from debug import debug
-from support import *
 from random import choice
+
+from debug import debug
+from player import Player
+from settings import *
+from support import *
+from tile import Tile
+
 
 class Level:
 	def __init__(self):
