@@ -4,8 +4,8 @@
 
 ### Credits
 
-- ###### Project Manager: Bartłomiej K.
-- ###### Supervisors: Maciej P. and Julia N.
+- ##### Project Manager: Bartłomiej K.
+- ##### Supervisors: Maciej P. and Julia N.
 
 
 - Programmers: Maciej P.
