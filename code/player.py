@@ -60,15 +60,19 @@ class Player(pygame.sprite.Sprite):
 
 			# attack input 
 			if keys[pygame.K_SPACE]:
+				''' disabled by VILO
 				self.attacking = True
 				self.attack_time = pygame.time.get_ticks()
 				print('attack')
+				'''
 
 			# magic input 
 			if keys[pygame.K_LCTRL]:
+				''' disabled by VILO
 				self.attacking = True
 				self.attack_time = pygame.time.get_ticks()
 				print('magic')
+				'''
 
 	def get_status(self):
 
