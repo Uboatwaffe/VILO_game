@@ -14,11 +14,10 @@ Project Manager: Bartłomiej K.
 Supervisors: Maciej P. and Julia N.
 
 Programmers: Maciej P.
-Graphic Designers: Konrad K and his brother
-Sound Engineer: 
+Graphic Designers: Konrad K, Igor K
 Testers: 
-Advertisement: 
-Plot Of The Game:
+Advertisement: Alisa D
+Plot Of The Game: Konrad K
 '''
 
 
