@@ -14,7 +14,7 @@ Project Manager: Bartłomiej K.
 Supervisors: Maciej P. and Julia N.
 
 Programmers: Maciej P.
-Graphic Designers: 
+Graphic Designers: Konrad K and his brother
 Sound Engineer: 
 Testers: 
 Advertisement: 
