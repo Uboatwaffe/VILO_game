@@ -1,8 +1,16 @@
 # VILO GAME
 
-### smth
+## Gra typu *open world*
 
-### Credits
+Uczen przemierza szkole, rozmawia z nauczycielami, poznaje ich powiedzenia i wykonuje zadania
+
+- rozpoznanie cytatu na polskim
+- tlumaczenie slowek na niemiecki
+- i wiele innych
+
+Plan szkoły odwzorowany jest realistycznie, a gracz zdobywa punkty za poprawne odpowiedzi.
+
+## Credits
 
 - #### Project Manager: Bartłomiej K.
 - #### Supervisors: Maciej P. and Julia N.
