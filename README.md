@@ -18,6 +18,6 @@ Plan szkoły odwzorowany jest realistycznie, a gracz zdobywa punkty za poprawne 
 
 - Programmers: Maciej P.
 - Graphic Designers: Konrad K, Igor K
-- Testers: ---
+- Testers: Dominika N
 - Advertisement: Alisa D
 - Plot Of The Game: Konrad K
