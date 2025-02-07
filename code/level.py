@@ -22,6 +22,7 @@ class Level:
 
 	def create_map(self):
 		layouts = {
+			# places things on the map
 			'boundary': import_csv_layout('../map/map_FloorBlocks.csv'),
 			'grass': import_csv_layout('../map/map_Grass.csv'),
 			'object': import_csv_layout('../map/map_Objects.csv'),
