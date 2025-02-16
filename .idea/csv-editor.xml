@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\map\map_Objects.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\map\parter.csv">
           <value>
             <Attribute>

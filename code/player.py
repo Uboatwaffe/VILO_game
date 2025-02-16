@@ -141,7 +141,6 @@ class Player(pygame.sprite.Sprite):
 
 	def update(self):
 		self.input()
-		self.cooldowns()
 		self.get_status()
 		self.animate()
 		self.move(self.speed)
