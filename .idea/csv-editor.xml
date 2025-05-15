@@ -3,7 +3,35 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\map\map_Details.csv">
+        <entry key="C:\Users\PC\Desktop\_\vilo_game_graphics\mapa\mapa2-20250217T164323Z-001\mapa2\1pietro\1pietro_detale.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Desktop\_\vilo_game_graphics\mapa\mapa2-20250217T164323Z-001\mapa2\1pietro\1pietro_entities.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Desktop\_\vilo_game_graphics\mapa\mapa2-20250217T164323Z-001\mapa2\1pietro\1pietro_floorblocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Desktop\_\vilo_game_graphics\mapa\mapa2-20250217T164323Z-001\mapa2\1pietro\1pietro_obiekty.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\PC\Desktop\_\vilo_game_graphics\mapa\mapa2-20250217T164323Z-001\mapa2\1pietro\1pietro_podlogaisciany.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -24,7 +52,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\map\parter.csv">
+        <entry key="\map\parter\parter._floorblocks.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\map\parter\parter._obiekty.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
