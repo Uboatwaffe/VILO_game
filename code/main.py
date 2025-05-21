@@ -14,11 +14,10 @@ Project Manager: Bartłomiej K.
 Supervisors: Maciej P. and Julia N.
 
 Programmers: Maciej P.
-Graphic Designers: 
-Sound Engineer: 
-Testers: 
-Advertisement: 
-Plot Of The Game:
+Graphic Designers: Konrad K, Igor K, Paweł P
+Testers: Dominika N
+Advertisement: Alisa D
+Plot Of The Game: Konrad K
 '''
 
 
@@ -31,7 +30,7 @@ class Game:
         # general setup
         pygame.init()
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
-        pygame.display.set_caption('Zelda')
+        pygame.display.set_caption('VILO GAME')
         self.clock = pygame.time.Clock()
 
         self.level = Level()
