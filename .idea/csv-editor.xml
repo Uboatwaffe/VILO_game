@@ -52,13 +52,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\map\parter\parter._floorblocks.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\map\parter\parter._obiekty.csv">
           <value>
             <Attribute>
